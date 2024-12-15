@@ -6,3 +6,4 @@ scikit-learn  == 1.5.2
 newspaper3k  == 0.2.8
 textblob  == 0.18.0.post0
 vaderSentiment  == 3.3.2
+lxml_html_clean   == 0.4.1
